@@ -9,11 +9,12 @@
 
 <details>
 <summary><strong>Predicting Stroke Risk with Logistic Regression & KNN</strong></summary>
-![Stroke Model]
-Developed a binary classification model to predict stroke risk based on patient characteristics.  
+
+Developed a binary classification model to predict stroke risk based on patient characteristics.   
 Compared **Logistic Regression,** **K-Nearest Neighbors (KNN),**, and **Ridge Regression,** evaluating model performance with **F1-score**, **ROC-AUC**, and **precision-recall** metrics.
 
-**Skills:** Python · scikit-learn · pandas · model evaluation  
+**Skills:** Python · scikit-learn · pandas · model evaluation
+
 [🔗 View on GitHub](https://github.com/KaylenaMann/HW2)
 </details>
 ---
