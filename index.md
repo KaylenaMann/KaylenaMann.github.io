@@ -5,7 +5,7 @@
 ### Machine Learning Projects
 
 [Logistic Regression/KNN algorithm to predict stroke Risk](https://github.com/KaylenaMann/HW2)
-<img width="576" height="453" alt="f1" src="https://github.com/user-attachments/assets/12d8cf82-e61d-4a0f-8bb9-4c4c6df7d7f7" />
+<img width="511" height="386" alt="ROC" src="https://github.com/user-attachments/assets/38655b46-d54d-4a4a-8a80-f4bcd30457aa" />
 
 <details>
 <summary><strong>Predicting Stroke Risk with Logistic Regression & KNN</strong></summary>
