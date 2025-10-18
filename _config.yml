@@ -1,13 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Kaylena Mann
+logo: "/images/Headshot.JPG?raw=true"
+description: >
+  This is Kaylena's portfolio of statistics and data science projects, from competitions, to passion projects, to research for businesses and nonprofits
   <br><br>
-  Second description 
+  Please explore and see what I have done. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/kaylenamann/">View My LinkedIn Profile</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
