@@ -9,9 +9,7 @@
 
 <details>
 <summary><strong>Predicting Stroke Risk with Logistic Regression & KNN</strong></summary>
-
-![Stroke Model](https://github.com/user-attachments/assets/12d8cf82-e61d-4a0f-8bb9-4c4c6df7d7f7)
-
+![Stroke Model]
 Developed a binary classification model to predict stroke risk based on patient characteristics.  
 Compared **Logistic Regression,** **K-Nearest Neighbors (KNN),**, and **Ridge Regression,** evaluating model performance with **F1-score**, **ROC-AUC**, and **precision-recall** metrics.
 
