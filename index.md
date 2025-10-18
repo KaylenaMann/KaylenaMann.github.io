@@ -8,6 +8,7 @@
 <img width="511" height="386" alt="ROC" src="https://github.com/user-attachments/assets/38655b46-d54d-4a4a-8a80-f4bcd30457aa" />
 
 <details>
+
 <summary><strong>Predicting Stroke Risk with Logistic Regression & KNN</strong></summary>
 
 Developed a binary classification model to predict stroke risk based on patient characteristics.   
