@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects
 
-[Logistic Regression/KNN alogirthm to predict stroke Risk](https://github.com/KaylenaMann/HW2)
+[Logistic Regression/KNN algorithm to predict stroke Risk](https://github.com/KaylenaMann/HW2)
 <img width="576" height="453" alt="f1" src="https://github.com/user-attachments/assets/12d8cf82-e61d-4a0f-8bb9-4c4c6df7d7f7" />
 
 ---
