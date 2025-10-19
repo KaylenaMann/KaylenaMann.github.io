@@ -6,8 +6,23 @@ description: >
   Please explore and see what I have done. 
   <br><br>
   <a href="https://www.linkedin.com/in/kaylenamann/">View My LinkedIn Profile</a> 
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 google_analytics: G-KJ3ZDPHCWW
+
+# Custom CSS overrides
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Markdown processor
+markdown: kramdown
+
+# Additional settings for better rendering
+kramdown:
+  parse_block_html: true
+  parse_span_html: true
+
+# Prevent text wrapping issues
+whitespace: strip
