@@ -7,13 +7,16 @@
 [Massachusetts Schools Early Warning System](https://github.com/KaylenaMann/Final_Project) 
 <img width="936" height="322" alt="Logistic_diagnostics" src="https://github.com/user-attachments/assets/e2ce5581-6cae-4ee0-81c3-340338388325" />
 
-<details> <summary><strong> Early-warning prediction model for Massachusetts schools, identifying schools at risk of falling into the bottom quartile of math proficiency. </strong></summary>
+<details>
+  <summary><strong> Early-warning prediction model for Massachusetts schools, identifying schools at risk of falling into the bottom quartile of math proficiency. </strong></summary>
 
-This project serves as an early-warning system, identifying at-risk schools based on yearly tracked data. The data included as features are repeated yearly, without limitations, making it applicable for potential policymakers to identify at-risk schools a full year in advance, before new tests are released. Or even for individual schools to see their relative risk level. The main analysis and modeling pipeline consists of four scripts, where I utilized and compared Regular logistic regression, Ridge logistic regression, K-Nearest Neighbors (KNN), and a Random Forest model. 
+  This project serves as an early-warning system, identifying at-risk schools based on yearly tracked data. The data included as features are repeated yearly, without limitations, making it applicable for potential policymakers to identify at-risk schools a full year in advance, before new tests are released. Or even for individual schools to see their relative risk level. The main analysis and modeling pipeline consists of four scripts, where I utilized and compared Regular logistic regression, Ridge logistic regression, K-Nearest Neighbors (KNN), and a Random Forest model. 
 
-**Skills:** Python · scikit-learn · pandas · model evaluation
+  **Skills:** Python · scikit-learn · pandas · model evaluation
 
-[🔗 View on GitHub](https://github.com/KaylenaMann/Final_Project) </details>
+  [🔗 View on GitHub](https://github.com/KaylenaMann/Final_Project) 
+  
+</details>
 
 ---
 
