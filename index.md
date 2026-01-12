@@ -39,7 +39,10 @@ Compared **Logistic Regression,** **K-Nearest Neighbors (KNN),**, and **Ridge Re
 </details>
 
 ---
+### Psychometrics Projects
+
 [3pl Psychometrics Project](https://github.com/KaylenaMann/3pl-Lab-Project)
+
 <img width="543" height="397" alt="3plProject" src="https://github.com/user-attachments/assets/077b0cdf-ab5b-4edd-be4e-414ef1fed659" />
 
 <details>
@@ -49,6 +52,7 @@ Compared **Logistic Regression,** **K-Nearest Neighbors (KNN),**, and **Ridge Re
 Implemented a three-parameter logistic (3PL) model to evaluate test quality and item characteristics across 500 examinees. Analyzed item difficulty, discrimination, and guessing parameters while incorporating priors for improved estimate stability. Evaluated model fit indices, classical item statistics, and person-fit diagnostics to identify problematic items and response patterns.
 
 **Skills**: R · MIRT · Item Response Theory · Psychometrics · Statistical Modeling
+
 [🔗 View on GitHub](https://github.com/KaylenaMann/3pl-Lab-Project)
 
 </details>
