@@ -1,6 +1,32 @@
-## Portfolio
 
-### Machine Learning Projects
+<style>
+  .dropdown-checkbox { display: none; }
+  .dropdown-label { cursor: pointer; font-weight: 600; display: inline-block; margin: 0.35rem 0; }
+  .dropdown-label::after { content: " ▾"; }
+  .dropdown-checkbox:checked + .dropdown-label::after { content: " ▴"; }
+  .project-details { display: none; margin-top: 0.35rem; font-size: 0.95rem; }
+  .dropdown-checkbox:checked + .dropdown-label + .project-details { display: block; }
+</style>
+
+<p>
+  <a href="https://github.com/KaylenaMann/Final_Project">
+    <strong>Massachusetts Schools Early Warning System</strong>
+  </a>
+</p>
+
+<img
+  width="936"
+  height="322"
+  alt="Logistic regression diagnostics plot for early warning model"
+  src="https://github.com/user-attachments/assets/e2ce5581-6cae-4ee0-81c3-340338388325"
+/>
+
+<input type="checkbox" id="proj-ews" class="dropdown-checkbox">
+<label for="proj-ews" class="dropdown-label">Project details</label>
+
+<div class="project-details">
+  <!-- your description paragraphs here -->
+</div>
 
 <style>
 /* Simple dropdown/accordion styling */
