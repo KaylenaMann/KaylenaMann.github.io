@@ -4,9 +4,7 @@
 
 ### Machine Learning Projects
 
-<div class="project">
-
-<p><a href="https://github.com/KaylenaMann/Final_Project"><strong>Massachusetts Schools Early Warning System</strong></a></p>
+[Massachusetts Schools Early Warning System](https://github.com/KaylenaMann/Final_Project) 
 
 <img width="936" height="322" alt="Logistic_diagnostics" src="https://github.com/user-attachments/assets/e2ce5581-6cae-4ee0-81c3-340338388325" />
 
@@ -14,14 +12,14 @@
   <summary><strong>Early-warning prediction model for Massachusetts schools, identifying schools at risk of falling into the bottom quartile of math proficiency.</strong></summary>
 
   <p>
-    This project serves as an early-warning system, identifying at-risk schools based on yearly tracked data.  
-    The data included as features are repeated yearly, making it useful for potential policymakers to identify at-risk schools a full year in advance—before new tests are released.  
+    This project serves as an early-warning system, identifying at-risk schools based on yearly tracked data.
+    The data included as features are repeated yearly, making it useful for potential policymakers to identify at-risk schools a full year in advance—before new tests are released.
     It can also help individual schools see their relative risk level.
   </p>
 
   <p>
-    The main analysis and modeling pipeline consists of four scripts, where I utilized and compared 
-    <strong>regular logistic regression</strong>, <strong>ridge logistic regression</strong>, 
+    The main analysis and modeling pipeline consists of four scripts, where I utilized and compared
+    <strong>regular logistic regression</strong>, <strong>ridge logistic regression</strong>,
     <strong>K-Nearest Neighbors (KNN)</strong>, and a <strong>Random Forest</strong> model.
   </p>
 
@@ -29,8 +27,6 @@
 
   <p><a href="https://github.com/KaylenaMann/Final_Project">🔗 View on GitHub</a></p>
 </details>
-
-</div>
 
 ---
 
