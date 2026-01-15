@@ -3,8 +3,6 @@ logo: "/images/Headshot.png?raw=false"
 description: >
   This is Kaylena's portfolio of statistics and data science projects, from competitions, to passion projects, to research for businesses and nonprofits
   <br><br>
-  Please explore and see what I have done. 
-  <br><br>
   <a href="https://www.linkedin.com/in/kaylenamann/">View My LinkedIn Profile</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
