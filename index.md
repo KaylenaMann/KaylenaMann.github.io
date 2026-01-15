@@ -1,3 +1,7 @@
+## Portfolio
+
+* * *
+
 ### Machine Learning Projects
 
 [Massachusetts Schools Early Warning System](https://github.com/KaylenaMann/Final_Project)  
@@ -19,9 +23,9 @@ The main analysis and modeling pipeline consists of four scripts, where I utiliz
 
 </details>
 
----
+* * *
 
-[Logistic Regression/KNN algorithm to predict stroke Risk](https://github.com/KaylenaMann/HW2)
+[Logistic Regression / KNN Stroke Risk Prediction](https://github.com/KaylenaMann/HW2)
 
 <img width="511" height="386" alt="ROC" src="https://github.com/user-attachments/assets/38655b46-d54d-4a4a-8a80-f4bcd30457aa" />
 
@@ -37,11 +41,11 @@ Compared **Logistic Regression**, **K-Nearest Neighbors (KNN)**, and **Ridge Reg
 
 </details>
 
----
+* * *
 
 ### Psychometrics Projects
 
-[3pl Psychometrics Project](https://github.com/KaylenaMann/3pl-Lab-Project)
+[3PL Psychometrics Project](https://github.com/KaylenaMann/3pl-Lab-Project)
 
 <img width="543" height="397" alt="3plProject" src="https://github.com/user-attachments/assets/077b0cdf-ab5b-4edd-be4e-414ef1fed659" />
 
@@ -58,12 +62,12 @@ Evaluated model fit indices, classical item statistics, and person-fit diagnosti
 
 </details>
 
----
+* * *
 
 [Project 3 Title](http://example.com/)  
 <img src="images/dummy_thumbnail.jpg?raw=true" alt="Project 3 thumbnail" />
 
----
+* * *
 
 ### Category Name 2
 
